@@ -148,24 +148,6 @@ Screenshots are included to provide visual evidence of the lab setup and install
 | Kali Linux login screen | `04-kali-login-screen.png` |
 | Kali Linux desktop | `05-kali-desktop.png` |
 
-VirtualBox VM Configuration
-
-
-
-Kali Linux Network Settings
-
-
-
-Kali Linux Boot Screen
-
-
-
-Kali Linux Login Screen
-
-
-
-Kali Linux Desktop
-
 
 ### 10. Learning Outcomes
 
