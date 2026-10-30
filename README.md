@@ -152,7 +152,7 @@ Screenshots are included to provide visual evidence of the lab setup and install
 The following screenshots document the VirtualBox configuration and Kali Linux lab setup.
 
 #### 1. VirtualBox VM Configuration
-![VirtualBox VM Configuration](01-virtualbox-vm.png.png)
+-------------------------------------
 
 #### 2. Kali Linux Network Settings
 ![Kali Linux Network Settings](02-kali-network-settings.png)
