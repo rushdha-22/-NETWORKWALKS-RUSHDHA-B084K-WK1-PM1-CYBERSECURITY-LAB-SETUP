@@ -185,20 +185,7 @@ All cybersecurity learning and future testing activities will be conducted in a 
 
 This project is intended for educational purposes and responsible cybersecurity practice.
 
-### 12. Project Status
-
-| Task | Status |
-|---|---|
-| VirtualBox installation and VM creation | Configured |
-| Kali Linux ISO attached | Configured |
-| CyberLab NAT Network created | Configured |
-| Kali Linux installation | Requires confirmation |
-| Graphical desktop | Requires confirmation |
-| Static IP configuration | Planned |
-| Network connectivity testing | Pending |
-| Screenshot documentation | In progress |
-
-### 13. Conclusion
+### 12. Conclusion
 
 Week 01 focuses on preparing a virtual cybersecurity lab using VirtualBox and Kali Linux. The project establishes the virtual machine configuration and the intended network architecture, while documenting installation issues and the remaining verification steps.
 
