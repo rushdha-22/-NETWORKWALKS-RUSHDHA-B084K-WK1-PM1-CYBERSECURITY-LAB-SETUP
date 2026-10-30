@@ -149,6 +149,23 @@ Screenshots are included to provide visual evidence of the lab setup and install
 | Kali Linux desktop | `05-kali-desktop.png` |
 
 
+The following screenshots document the VirtualBox configuration and Kali Linux lab setup.
+
+#### 1. VirtualBox VM Configuration
+![VirtualBox VM Configuration](01-virtualbox-vm.png.png)
+
+#### 2. Kali Linux Network Settings
+![Kali Linux Network Settings](02-kali-network-settings.png)
+
+#### 3. Kali Linux Boot Screen
+![Kali Linux Boot Screen](03-kali-boot-screen.png)
+
+#### 4. Kali Linux Login Screen
+![Kali Linux Login Screen](04-kali-login-screen.png)
+
+#### 5. Kali Linux Desktop
+![Kali Linux Desktop](05-kali-desktop.jpeg)
+
 ### 10. Learning Outcomes
 
 This project provides practical experience with:
